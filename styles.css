@@ -1,0 +1,47 @@
+.navbar {
+    padding: .75rem 6rem;
+}
+
+.header {
+    padding: 41vh 0;
+    border-radius: 0;
+}
+
+.hero-background-img {
+    background-image: url("field.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.header a {
+    border: none;
+    border-radius: 15px;
+    padding: .5rem 2rem;
+}
+
+.header a:hover {
+    background-color: rgb(181, 181, 181);
+    border-radius: 15px 0 15px 0;
+    transition: 250ms all ease-in-out;
+}
+
+.cta {
+    padding: 18vh 0;
+    border-radius: 0;
+}
+
+.form-control {
+    border-radius: 15px 0 0 15px;
+}
+
+.btn-primary {
+    border-radius: 0 15px 15px 0;
+}
+
+footer {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
